@@ -1,4 +1,4 @@
-module github.com/Debian/debiman
+module github.com/mariobl/fedoraman
 
 go 1.24.0
 

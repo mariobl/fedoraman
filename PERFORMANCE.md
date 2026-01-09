@@ -1,4 +1,4 @@
-# debiman performance
+# fedoraman performance
 
 In both cases, a Debian mirror was available via a Gigabit ethernet connection.
 
